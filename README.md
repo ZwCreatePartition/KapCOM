@@ -1,3 +1,13 @@
+# WARNING!
+This program uses UNSAFE Kernel Code to dump and manage your memory, please do not run if you do not have any experience with: 
+* Dumping
+* Debugging
+* Decompiling
+* Disassembling
+* Memory Management
+
+Please download at your own RISK!
+
 # KapCOM
 KapCOM is an Open-Source, Driver and Dumper for Intel-386, MetaPC and any x64 register.
 # Driver
